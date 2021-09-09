@@ -1,0 +1,6 @@
+---
+elastic_kibana:
+  hosts:
+    testubuntu2:
+      ansible_connection: ssh
+      ansible_user: user
